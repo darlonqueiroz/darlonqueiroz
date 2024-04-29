@@ -70,7 +70,7 @@
 | IOT  | [TCC - A IMPORTÂNCIA DO IOT NAS UNIVERSIDADES PÚBLICAS DO BRASIL](https://drive.google.com/file/d/11NZd7e0KB0SjfEnLEDpeBa8KHZuvzr_E/view?usp=drive_link)|
 | Marketing  | [TCC ESTUDAR ESTRATÉGIAS DE MARKETING MUSICAL PARA ENTENDER O ENGAJAMENTO DE PÚBLICO E IMPULSIONAR A POPULARIDADE DE ARTISTAS DA MÚSICA MODERNA](https://drive.google.com/file/d/1CHjDgAjMuxrMu9f_dHNLbY0wETFfasxA/view?usp=drive_link)|
 | Políticas Públicas  | [TCC - ESTUDO DE MECANISMO DE POLÍTICAS ADMINISTRATIVAS NO DESENVOLVIMENTO E ESTÍMULO A PROJETOS CULTURAIS ARTÍSTICOS.](https://drive.google.com/file/d/1O7dRXKCvKa3BowKCxDbje8H8cgnfNTfZ/view?usp=drive_link)
-|
+
 
 # Streams and Plataforms
 [![Youtube Badge](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@ParadgmaTV/videos)
