@@ -2,6 +2,7 @@
 
 #  Welcome to my GITHUB : Hi! I´m Darlon 👋
 
+
 ## [About Me](https://github.com/darlonqueiroz)
 
 🎓 Postgraduate in Digital Games. </br>
@@ -10,9 +11,8 @@
 🎬 Audio visual producer.</br>
 💻 I still don't work in the area, but I'm looking to migrate to the technology area, acquiring knowledge with personal projects.</br>
 🏢 I intend to set up a company focused on games and the metaverse.
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 ## Social Media / Contact Me
-
 
 [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/darlon.paradgma/)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/paradgma_rapstar/)
@@ -21,12 +21,13 @@
 [![Discord Badge](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](darlon5247)
 [![Tiktok Badge](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.twitch.tv/paradgma_rapstar)
 [![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/darlonqueiroz)</br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
 # Public Projects ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=darlonqueiroz&theme=gotham)
 ![Darlon's GitHub stats](https://github-readme-stats.vercel.app/api?username=darlonqueiroz&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=darlonqueiroz&layout=compact&theme=gotham)  
 [![GitHub Streak](https://streak-stats.demolab.com/?user=darlonqueiroz&theme=shadow-red&background=080808&border=666666&dates=faebd7)](https://git.io/streak-stats)  
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
 # Skills
 <h3 align="left">Languages and Tools:</h3>
@@ -42,7 +43,7 @@
 <a href="https://dbeaver.io/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg"  alt="dbeaver" width="40" height="40"/> </a> 
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=22813&format=png&color=000000"  alt="docker" width="40" height="40"/> </a> 
 
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
 <h4 align="left">Frontend:</h4>
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
@@ -53,6 +54,7 @@
 <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="react native" width="40" height="40"/> </a> 
 <a href="https://gluonhq.com/products/scene-builder/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=BZz399uT6eo0&format=png&color=000000" alt="scenebuilder" width="40" height="40"/> </a> 
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
 <h4 align="left">Game Dev: </h4> 
 
@@ -60,6 +62,7 @@
 <a href="https://godotengine.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg"  alt="blender" width="40" height="40"/> </a> 
 <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a>
  <a href="https://www.roblox.com/pt/home" target="_blank" rel="noreferrer"> <img width="48" height="48" src="https://img.icons8.com/color-glass/48/roblox.png" alt="roblox" width="40" height="40"/> </a>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
 <h4 align="left">Design Visual Audio:</h4>
 
@@ -71,11 +74,13 @@
 <a href="https://www.adobe.com/in/products/premiere.html" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/premierepro/premierepro-original.svg"  alt="unreal" width="40" height="40"/> </a> 
 <a href="https://www.blackmagicdesign.com/br/products/davinciresolve/" target="_blank" rel="noreferrer"> <img width="48" height="48" src="https://img.icons8.com/color/48/davinci-resolve.png" alt="davinci-resolve" width="40" height="40"/> </a>
 <a href="https://www.image-line.com/lp/get-fl-studio" target="_blank" rel="noreferrer"> <img width="48" height="48" src="https://img.icons8.com/color/48/fl-studio.png" alt="fl-studio" width="40" height="40"/> </a> 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
 # 🏆GitHub Trophies
 <div align="center">
 <img height="250em" src="https://github-profile-trophy.vercel.app/?username=darlonqueiroz&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" />
 </div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
 # Artigos
 |Abordagem| Tema |
@@ -95,7 +100,6 @@
 [![ Epic Badge](https://img.shields.io/badge/Epic%20Games-313131?style=for-the-badge&logo=Epic%20Games&logoColor=white)]()
 [![Riot Badge](https://img.shields.io/badge/Riot_Games-D32936?style=for-the-badge&logo=riot-games&logoColor=white)]()
 [![Playstation Badge](https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white)]()
-
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
 
