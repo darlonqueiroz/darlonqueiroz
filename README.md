@@ -71,7 +71,11 @@
 <a href="https://www.adobe.com/in/products/premiere.html" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/premierepro/premierepro-original.svg"  alt="unreal" width="40" height="40"/> </a> 
 <a href="https://www.blackmagicdesign.com/br/products/davinciresolve/" target="_blank" rel="noreferrer"> <img width="48" height="48" src="https://img.icons8.com/color/48/davinci-resolve.png" alt="davinci-resolve" width="40" height="40"/> </a>
 <a href="https://www.image-line.com/lp/get-fl-studio" target="_blank" rel="noreferrer"> <img width="48" height="48" src="https://img.icons8.com/color/48/fl-studio.png" alt="fl-studio" width="40" height="40"/> </a> 
-</p>
+
+# 🏆GitHub Trophies
+<div align="center">
+<img height="250em" src="https://github-profile-trophy.vercel.app/?username=darlonqueiroz&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" />
+</div>
 
 # Artigos
 |Abordagem| Tema |
