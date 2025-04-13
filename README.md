@@ -1,6 +1,7 @@
 <img src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/631cf1106153511.5f8936068499e.gif" alt="angular" width="1620" height="400"/>
 
-#  Welcome to my GITHUB : Hi! I´m Darlon 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=063970&size=45&center=true&vCenter=true&width=1000&lines=Hi,+My+name+is+Darlon+Queiroz;I'm+from+Brazil;I'm+Graduate+in+Information+Systems;I'm+PostGraduate+Digital+Games+;Be+Welcome!+to+my+Github+👋)](https://git.io/typing-svg)
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
 
 ## [About Me](https://github.com/darlonqueiroz)
