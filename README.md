@@ -28,11 +28,13 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
 # Public Projects ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=darlonqueiroz&theme=gotham)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=darlonqueiroz&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=darlonqueiroz&layout=compact&theme=dark)  
-![GitHub Streak](https://streak-stats.demolab.com?user=darlonqueiroz&theme=dark)
-![Trophies](https://github-profile-trophy.vercel.app/?username=darlonqueiroz&theme=darkhub)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=darlonqueiroz&show_icons=true&theme=dark&cache_seconds=1800)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=darlonqueiroz&layout=compact&theme=dark&cache_seconds=1800)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=darlonqueiroz&theme=dark)
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=darlonqueiroz&theme=darkhub&no-frame=true)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
